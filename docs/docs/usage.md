@@ -45,7 +45,7 @@ mbt build -p=cf
 ```
 
 <b>`mbt build`</b>
-Gnerates a temporary `Makefile` according to the MTA descriptor and runs the `make` command to package the MTA project into the MTA archive
+Generates a temporary `Makefile` according to the MTA descriptor and runs the `make` command to package the MTA project into the MTA archive
 
 <b>Usage:</b> `mbt build <flags>`
 
